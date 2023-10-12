@@ -1,7 +1,7 @@
 # dio-desafio-github
 Desafio de Projeto sobre Git/Github
 
-[desenvolvimento e criacao de jogos](./desenvolvimento-e-criacao-de-jogos.md)
+[desenvolvimento e criacao de jogos](./desenvolvimento-e-criacao-de-jogos/desenvolvimento-e-criacao-de-jogos.md)
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
